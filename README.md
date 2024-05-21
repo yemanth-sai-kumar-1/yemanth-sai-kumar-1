@@ -44,4 +44,4 @@
 
 
 ## Connect with Me
-- LinkedIn: [Yemanth Sai Kumar](https://linkedin.com/in/yemanth-sai-kumar) 💼
+- LinkedIn: [Yemanth Sai Kumar](https://www.linkedin.com/in/yemanth-sai-kumar-dalai-384a46210/) 💼
