@@ -9,7 +9,7 @@
 
 - 🎓 I have completed my B.Tech in Computer Science and Engineering at Raghu Institute of Technology
 - 💻 I'm a Full Stack Developer with experience in web development using HTML, CSS, JavaScript, React, Node.js, Express.js, and WordPress, PHP.
-- 🌱 Currently learning Python for full-stack development.
+- 🌱 Currently learning WordPress development.
 - 📧 Reach me at: yemanthsaikumar@gmail.com
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)  
